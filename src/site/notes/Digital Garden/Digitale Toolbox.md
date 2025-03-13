@@ -95,8 +95,8 @@ _Systeme, Datenbanken, Selektion, Speichern, Aktualisieren, Gamification_
 
 ### Datenbanken
 
--  Wiki-Systeme (Wikis, Confluence, SHarepoint)
--  Passwortmanager (1Password, Bitwarden, LastPass, KeePass)
+-  Wiki-Systeme (Wikis, [Confluence](https://www.atlassian.com/de/software/confluence), [SharePoint](https://www.microsoft.com/de-at/microsoft-365/sharepoint/collaboration)
+-  Passwortmanager ([1Password](https://1password.com/), [Bitwarden](https://bitwarden.com/), [LastPass](https://www.lastpass.com/), [KeePass](https://keepass.info/)/[KeePassXC](https://keepassxc.org/))
 -  Tools für (automatisierte) Dokumentation, Berichte, Agenda, Protokoll (Evernote, OneNote, Notion)
 -  Cloud ([AWS](https://aws.amazon.com/), [Google Drive](https://drive.google.com/), [Dropbox](https://www.dropbox.com/home))
 -  Langfristige Speicherung
