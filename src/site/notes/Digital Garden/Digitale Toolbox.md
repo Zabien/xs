@@ -98,7 +98,7 @@ _Systeme, Datenbanken, Selektion, Speichern, Aktualisieren, Gamification_
 -  Wiki-Systeme (Wikis, Confluence, SHarepoint)
 -  Passwortmanager (1Password, Bitwarden, LastPass, KeePass)
 -  Tools für (automatisierte) Dokumentation, Berichte, Agenda, Protokoll (Evernote, OneNote, Notion)
--  Cloud (AWS, [Google Drive](https://drive.google.com/), [Dropbox](https://www.dropbox.com/home))
+-  Cloud ([AWS](https://aws.amazon.com/), [Google Drive](https://drive.google.com/), [Dropbox](https://www.dropbox.com/home))
 -  Langfristige Speicherung
 
 ### Sicherheit
