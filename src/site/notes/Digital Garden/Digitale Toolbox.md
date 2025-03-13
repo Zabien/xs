@@ -22,10 +22,10 @@ Diagramme, Code-Visualisierung
 
 Datenvisualisierung 
 - [Google Data Studio](https://lookerstudio.google.com/overview)
-- Python
+- [Python](https://www.python.org/)
 
 Mindmapping 
-- Mindmeister
+- [Mindmeister](https://www.mindmeister.com/de)
 
 ## Wissen erwerben
 
@@ -33,7 +33,7 @@ _Briefings, Expertinnenpool, Kontakte nach außen, Stakeholder, Partner, Kontakt
 
 ### Vernetzung & Analyse
 
-- Quellen (ResearchGate, Statista, Open Data Portale, Google Scholar)
+- Quellen ([ResearchGate](https://www.researchgate.net/), [Statista](https://statista.com/), [Open Data Portal](https://www.opendataportal.at/), [Offene Datean](https://www.data.gv.at/) [Google Scholar](https://scholar.google.com/))
 - Netzwerke (LinkedIn, XING)
 - Bibliotheken (JSTOR, Springer)
 - Matchmaking (B2Match etc.)
@@ -98,7 +98,7 @@ _Systeme, Datenbanken, Selektion, Speichern, Aktualisieren, Gamification_
 -  Wiki-Systeme (Wikis, Confluence, SHarepoint)
 -  Passwortmanager (1Password, Bitwarden, LastPass, KeePass)
 -  Tools für (automatisierte) Dokumentation, Berichte, Agenda, Protokoll (Evernote, OneNote, Notion)
--  Cloud (AWS, Google Drive, Dropbox)
+-  Cloud (AWS, [Google Drive](https://drive.google.com/), [Dropbox](https://www.dropbox.com/home))
 -  Langfristige Speicherung
 
 ### Sicherheit
