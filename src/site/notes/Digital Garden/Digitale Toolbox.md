@@ -8,24 +8,15 @@
 
 ### Visualisierung
 
-Pinnwand
-- [Padlet](https://padlet.com/) &middot; Google Jamboard until 2024
-
-Digitale Whiteboards
-- [Mural](https://www.mural.co/) &middot; [Miro](https://miro.com/) &middot; [Flinga](https://flinga.fi/)
-
-Diagramme &middot; Code-Visualisierung
-- [Mermaid](https://mermaid.js.org/)
-
-Datenvisualisierung 
-- [Google Data Studio](https://lookerstudio.google.com/overview) &middot; [Python](https://www.python.org/)
-
-Mindmapping 
-- [Mindmeister](https://www.mindmeister.com/de)
+- Pinnwand [Padlet](https://padlet.com/) &middot; Google Jamboard until 2024
+- Digitale Whiteboards [Mural](https://www.mural.co/) &middot; [Miro](https://miro.com/) &middot; [Flinga](https://flinga.fi/)
+- Diagramme &middot; Code-Visualisierung [Mermaid](https://mermaid.js.org/)
+- Datenvisualisierung [Google Data Studio](https://lookerstudio.google.com/overview) &middot; [Python](https://www.python.org/)
+- Mindmapping [Mindmeister](https://www.mindmeister.com/de)
 
 ## Wissen erwerben
 
-_Briefings &middot; Expertinnenpool &middot; Kontakte nach außen &middot; Stakeholder &middot; Partner &middot; Kontakt-Systeme (CRM &middot; Adressbücher o.ä.)_
+_Briefings, Expertinnenpool, Kontakte nach außen, Stakeholder, Partner, Kontakt-Systeme (CRM, Adressbücher o.ä.)_
 
 ### Vernetzung & Analyse
 
@@ -37,7 +28,7 @@ _Briefings &middot; Expertinnenpool &middot; Kontakte nach außen &middot; Stake
 
 ## Wissen entwickeln
 
-_Lernen &middot; E-Learning &middot; Schulungen &middot; Experimentierräume &middot; Innovationslabore &middot; Think Thanks &middot; Ideen_
+_Lernen, E-Learning, Schulungen, Experimentierräume, Innovationslabore, Think Thanks, Ideen_
 
 ### Lernumgebungen
 
@@ -54,13 +45,14 @@ _Lernen &middot; E-Learning &middot; Schulungen &middot; Experimentierräume &mi
 
 ## Wissen verteilen
 
-_Meetings &middot; Workshops &middot; Joru Fixe &middot; Newsletter &middot; Mentoring_
+_Meetings, Workshops, Joru Fixe, Newsletter, Mentoring_
 
 ###   
 
 ### Meetings &middot; Online-Meetings
 
--  Umfragen &middot; Abstimmung &middot; Terminfindung (Doodle &middot; Surveymonkey &middot; Typeform &middot; Limesurvey &middot; Termino &middot; LamaPoll)
+-  Umfragen, Abstimmung, Terminfindung (Doodle &middot; [Surveymonkey](https://de.surveymonkey.com/) &middot; [Typeform](https://www.typeform.com/) &middot; [Limesurvey](https://www.limesurvey.org/de) &middot; [Termino]() &middot; LamaPoll)
+-  Umfragen, Abstimmung, Terminfindung (Doodle &middot; [Surveymonkey](https://de.surveymonkey.com/) &middot; [Typeform](https://www.typeform.com/) &middot; [Limesurvey](https://www.limesurvey.org/de) &middot; [Termino](https://www.termino.gv.at/meet/de) &middot; [LamaPoll](https://www.lamapoll.de/) &middot; [tally](https://tally.so/)
 -  Meetings (MS Teams &middot; [Zoom](https://zoom.us/myhome) &middot; [GoToMeeting](https://www.goto.com/meeting) &middot; [Webex](https://www.webex.com/de/index.html) &middot; [Jitsi](https://jitsi.org/)
 -  synchrone/asynchrone Kommunikation ([Slack](https://slack.com/) &middot; [MS Teams](https://www.microsoft.com/de-at/microsoft-teams/log-in) &middot; [Discord](https://discord.com/)
 -  Konferenzen ([Hopin](https://hopin.com/) &middot; Zoom &middot; [Eventbrite](https://www.eventbrite.at/) &middot; [Kupfticket](https://kupfticket.com/en)
