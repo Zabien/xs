@@ -59,11 +59,11 @@ _Meetings, Workshops, Joru Fixe, Newsletter, Mentoring_
 
 ### Stakeholder-Management
 
--  Bürgerbeteiligung &middot; Austausch mit Interessensgruppen
+-  Bürgerbeteiligung, Austausch mit Interessensgruppen
 
 ## Wissen nutzen
 
-_Alltag &middot; Qualität &middot; Nutzen &middot; Vertrauen &middot; Automatisierung &middot; Optimierung &middot; Barrierefreiheit & Inklusion_
+_Alltag, Qualität, Nutzen, Vertrauen, Automatisierung, Optimierung, Barrierefreiheit & Inklusion_
 
 ### Dokumenten-Erstellung
 
@@ -73,11 +73,11 @@ _Alltag &middot; Qualität &middot; Nutzen &middot; Vertrauen &middot; Automatis
 
 ## Wissen bewahren
 
-_Systeme &middot; Datenbanken &middot; Selektion &middot; Speichern &middot; Aktualisieren &middot; Gamification_
+_Systeme, Datenbanken, Selektion, Speichern, Aktualisieren, Gamification_
 
 ### Datenbanken
 
--  Wiki-Systeme (Wikis &middot; [Confluence](https://www.atlassian.com/de/software/confluence) &middot; [SharePoint](https://www.microsoft.com/de-at/microsoft-365/sharepoint/collaboration)
+-  Wiki-Systeme [Confluence](https://www.atlassian.com/de/software/confluence) &middot; [SharePoint](https://www.microsoft.com/de-at/microsoft-365/sharepoint/collaboration) &middot; Wiki
 -  Passwortmanager [1Password](https://1password.com/) &middot; [Bitwarden](https://bitwarden.com/) &middot; [LastPass](https://www.lastpass.com/) &middot; [KeePass](https://keepass.info/)/[KeePassXC](https://keepassxc.org/)
 -  Tools für (automatisierte) Dokumentation, Berichte, Agenda, Protokoll [Evernote](https://evernote.com/de-de) &middot; [OneNote](https://www.onenote.com/) &middot; [Notion](https://www.notion.com/)
 -  Cloud [AWS](https://aws.amazon.com/) &middot; [Google Drive](https://drive.google.com/) &middot; [Dropbox](https://www.dropbox.com/home) &middot; [ownCloud](https://owncloud.com/de/)
