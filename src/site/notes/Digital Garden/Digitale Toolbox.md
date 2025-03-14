@@ -47,8 +47,6 @@ _Lernen, E-Learning, Schulungen, Experimentierräume, Innovationslabore, Think T
 
 _Meetings, Workshops, Joru Fixe, Newsletter, Mentoring_
 
-###   
-
 ### Meetings &middot; Online-Meetings
 
 -  Umfragen, Abstimmung, Terminfindung (Doodle &middot; [Surveymonkey](https://de.surveymonkey.com/) &middot; [Typeform](https://www.typeform.com/) &middot; [Limesurvey](https://www.limesurvey.org/de) &middot; [Termino]() &middot; LamaPoll)
@@ -67,25 +65,21 @@ _Meetings, Workshops, Joru Fixe, Newsletter, Mentoring_
 
 _Alltag &middot; Qualität &middot; Nutzen &middot; Vertrauen &middot; Automatisierung &middot; Optimierung &middot; Barrierefreiheit & Inklusion_
 
-###   
-
 ### Dokumenten-Erstellung
 
 -  Docs ([GoogleDocs](https://docs.google.com/) &middot; Microsoft Office 365 &middot; [Cryptpad](https://cryptpad.fr/) &middot;  [Nextcloud](https://nextcloud.com/de/) &middot; [DropboxPaper](https://www.dropbox.com/paper/home) &middot; [Etherpad](https://etherpad.org/)/[YoPad (Etherpad Lite)](https://yopad.eu/) (=Fokus auf Dokumentenerstellung wie Word)
--  Präsentationen ([Prezi](https://prezi.com/de/) &middot; [Hyperdeck](https://hyperdeck.io/) &middot; [iAPresenter](https://ia.net/presenter) &middot; [GoogleSlides](https://docs.google.com/presentatio))
+-  Präsentationen [Prezi](https://prezi.com/de/) &middot; [Hyperdeck](https://hyperdeck.io/) &middot; [iAPresenter](https://ia.net/presenter) &middot; [GoogleSlides](https://docs.google.com/presentatio)
 -  Automatisierte Dokumentenerstellung
 
 ## Wissen bewahren
 
 _Systeme &middot; Datenbanken &middot; Selektion &middot; Speichern &middot; Aktualisieren &middot; Gamification_
 
-###   
-
 ### Datenbanken
 
 -  Wiki-Systeme (Wikis &middot; [Confluence](https://www.atlassian.com/de/software/confluence) &middot; [SharePoint](https://www.microsoft.com/de-at/microsoft-365/sharepoint/collaboration)
 -  Passwortmanager [1Password](https://1password.com/) &middot; [Bitwarden](https://bitwarden.com/) &middot; [LastPass](https://www.lastpass.com/) &middot; [KeePass](https://keepass.info/)/[KeePassXC](https://keepassxc.org/)
--  Tools für (automatisierte) Dokumentation &middot; Berichte &middot; Agenda &middot; Protokoll [Evernote](https://evernote.com/de-de) &middot; [OneNote](https://www.onenote.com/) &middot; [Notion](https://www.notion.com/)
+-  Tools für (automatisierte) Dokumentation, Berichte, Agenda, Protokoll [Evernote](https://evernote.com/de-de) &middot; [OneNote](https://www.onenote.com/) &middot; [Notion](https://www.notion.com/)
 -  Cloud [AWS](https://aws.amazon.com/) &middot; [Google Drive](https://drive.google.com/) &middot; [Dropbox](https://www.dropbox.com/home) &middot; [ownCloud](https://owncloud.com/de/)
 -  Langfristige Speicherung
 
@@ -94,8 +88,5 @@ _Systeme &middot; Datenbanken &middot; Selektion &middot; Speichern &middot; Akt
 -  Datenschutz
 -  Sicherheitstests
 -  Verschlüsselung
--  Gamification (kahoot &middot; Quizlet &middot; Classcraft)
+-  Gamification ([kahoot](https://kahoot.it/) &middot; [Quizlet](https://quizlet.com/gb) &middot; Classcraft)
 -  Zugriff und Berechtigungssysteme
-
-
-- 
