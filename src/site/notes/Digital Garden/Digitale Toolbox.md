@@ -47,10 +47,10 @@ _Lernen, E-Learning, Schulungen, Experimentierräume, Innovationslabore, Think T
 
 ### Aufgabenmanagement
 
--  Aufgabenmanagement (Todoist, Plan.io, YouTrack, Wunderlist etc.)
--  Kanban (Trello, Zenkit, Notion etc.)
--  Zeitmanagement (Toggl, Clockify, Pomodoro)
--  Projektmanagement (Asana, Basecamp, Monday)
+-  Aufgabenmanagement ([Todoist](https://www.todoist.com/), [Plan.io](https://plan.io/), [YouTrack](https://www.jetbrains.com/de-de/youtrack/), 
+-  Kanban ([Trello](https://trello.com/de), [Zenkit](https://zenkit.com/de/), Notion etc.)
+-  Zeitmanagement &-tracking ([Toggl](https://toggl.com/), [Clockify](https://clockify.me/de/), [AK Zeitspeicher](https://ak-zeitspeicher.at/frontend/#/login), Pomodoro)
+-  Projektmanagement ([Asana](https://asana.com/de), [Basecamp](https://basecamp.com/), [Monday](https://monday.com/))
 
 ## Wissen verteilen
 
@@ -61,11 +61,12 @@ _Meetings, Workshops, Joru Fixe, Newsletter, Mentoring_
 ### Meetings, Online-Meetings
 
 -  Umfragen, Abstimmung, Terminfindung (Doodle, Surveymonkey, Typeform, Limesurvey, Termino, LamaPoll)
--  Meetings (MS Teams, Zoom, GoToMeeting, Webex, Jitsi)
--  synchrone/asynchrone Kommunikation (Slack, MS Teams, Discord)
--  Konferenzen (Hopin, Zoom, Eventbrite)
--  Quiz (Kahoot, Mentimeter, Quizlet)
--  Live-Feedback (Mentimenter, PollEV)
+-  Meetings (MS Teams, [Zoom](https://zoom.us/myhome), [GoToMeeting](https://www.goto.com/meeting), [Webex](https://www.webex.com/de/index.html), [Jitsi](https://jitsi.org/)
+-  synchrone/asynchrone Kommunikation ([Slack](https://slack.com/), [MS Teams](https://www.microsoft.com/de-at/microsoft-teams/log-in), [Discord](https://discord.com/)
+-  Konferenzen ([Hopin](https://hopin.com/), Zoom, [Eventbrite](https://www.eventbrite.at/), [Kupfticket]()
+-  Konferenzen ([Hopin](https://hopin.com/), Zoom, [Eventbrite](https://www.eventbrite.at/), [Kupfticket](https://kupfticket.com/en)
+-  Quiz ([Kahoot](https://kahoot.it/), [Mentimeter](https://www.mentimeter.com/), [Quizlet](https://quizlet.com/de)
+-  Live-Feedback (Mentimenter, [PollEV](https://pollev.com/home)
 
 ### Stakeholder-Management
 
@@ -93,7 +94,7 @@ _Systeme, Datenbanken, Selektion, Speichern, Aktualisieren, Gamification_
 
 -  Wiki-Systeme (Wikis, [Confluence](https://www.atlassian.com/de/software/confluence), [SharePoint](https://www.microsoft.com/de-at/microsoft-365/sharepoint/collaboration)
 -  Passwortmanager ([1Password](https://1password.com/), [Bitwarden](https://bitwarden.com/), [LastPass](https://www.lastpass.com/), [KeePass](https://keepass.info/)/[KeePassXC](https://keepassxc.org/))
--  Tools für (automatisierte) Dokumentation, Berichte, Agenda, Protokoll (Evernote, OneNote, Notion)
+-  Tools für (automatisierte) Dokumentation, Berichte, Agenda, Protokoll ([Evernote](https://evernote.com/de-de), [OneNote](https://www.onenote.com/), [Notion](https://www.notion.com/))
 -  Cloud ([AWS](https://aws.amazon.com/), [Google Drive](https://drive.google.com/), [Dropbox](https://www.dropbox.com/home)), [ownCloud](https://owncloud.com/de/)
 -  Langfristige Speicherung
 
