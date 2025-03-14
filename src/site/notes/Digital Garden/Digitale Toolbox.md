@@ -9,93 +9,92 @@
 ### Visualisierung
 
 Pinnwand
-- [Padlet](https://padlet.com/), Google Jamboard until 2024
+- [Padlet](https://padlet.com/) &middot; Google Jamboard until 2024
 
 Digitale Whiteboards
-- [Mural](https://www.mural.co/), [Miro](https://miro.com/), [Flinga](https://flinga.fi/)
+- [Mural](https://www.mural.co/) &middot; [Miro](https://miro.com/) &middot; [Flinga](https://flinga.fi/)
 
-Diagramme, Code-Visualisierung
+Diagramme &middot; Code-Visualisierung
 - [Mermaid](https://mermaid.js.org/)
 
 Datenvisualisierung 
-- [Google Data Studio](https://lookerstudio.google.com/overview), [Python](https://www.python.org/)
+- [Google Data Studio](https://lookerstudio.google.com/overview) &middot; [Python](https://www.python.org/)
 
 Mindmapping 
 - [Mindmeister](https://www.mindmeister.com/de)
 
 ## Wissen erwerben
 
-_Briefings, Expertinnenpool, Kontakte nach außen, Stakeholder, Partner, Kontakt-Systeme (CRM, Adressbücher o.ä.)_
+_Briefings &middot; Expertinnenpool &middot; Kontakte nach außen &middot; Stakeholder &middot; Partner &middot; Kontakt-Systeme (CRM &middot; Adressbücher o.ä.)_
 
 ### Vernetzung & Analyse
 
-- Quellen ([ResearchGate](https://www.researchgate.net/), [Statista](https://statista.com/), [Open Data Portal](https://www.opendataportal.at/), [Offene Datean](https://www.data.gv.at/) [Google Scholar](https://scholar.google.com/))
-- Netzwerke (LinkedIn, XING)
-- Bibliotheken (JSTOR, Springer)
+- Quellen ([ResearchGate](https://www.researchgate.net/) &middot; [Statista](https://statista.com/) &middot; [Open Data Portal](https://www.opendataportal.at/) &middot; [Offene Datean](https://www.data.gv.at/) [Google Scholar](https://scholar.google.com/))
+- Netzwerke (LinkedIn &middot; XING)
+- Bibliotheken (JSTOR &middot; Springer)
 - Matchmaking (B2Match etc.)
-- Gruppen-Tools (Meetup, Social-Media-Gruppen)
+- Gruppen-Tools (Meetup &middot; Social-Media-Gruppen)
 
 ## Wissen entwickeln
 
-_Lernen, E-Learning, Schulungen, Experimentierräume, Innovationslabore, Think Thanks, Ideen_
+_Lernen &middot; E-Learning &middot; Schulungen &middot; Experimentierräume &middot; Innovationslabore &middot; Think Thanks &middot; Ideen_
 
 ### Lernumgebungen
 
--  Weiterbildung (Moodle, Canvas, Wikis, Udemy, interne Lernsysteme)
+-  Weiterbildung (Moodle &middot; Canvas &middot; Wikis &middot; Udemy &middot; interne Lernsysteme)
 -  Innovation
--  Prototyp-Entwicklung (Jira, GitLab, GitHub)
+-  Prototyp-Entwicklung (Jira &middot; GitLab &middot; GitHub)
 
 ### Aufgabenmanagement
 
--  Aufgabenmanagement ([Todoist](https://www.todoist.com/), [Plan.io](https://plan.io/), [YouTrack](https://www.jetbrains.com/de-de/youtrack/), 
--  Kanban ([Trello](https://trello.com/de), [Zenkit](https://zenkit.com/de/), Notion etc.)
--  Zeitmanagement &-tracking ([Toggl](https://toggl.com/), [Clockify](https://clockify.me/de/), [AK Zeitspeicher](https://ak-zeitspeicher.at/frontend/#/login), Pomodoro)
--  Projektmanagement ([Asana](https://asana.com/de), [Basecamp](https://basecamp.com/), [Monday](https://monday.com/))
+-  Aufgabenmanagement ([Todoist](https://www.todoist.com/) &middot; [Plan.io](https://plan.io/) &middot; [YouTrack](https://www.jetbrains.com/de-de/youtrack/) &middot; 
+-  Kanban ([Trello](https://trello.com/de) &middot; [Zenkit](https://zenkit.com/de/) &middot; Notion etc.)
+-  Zeitmanagement &-tracking ([Toggl](https://toggl.com/) &middot; [Clockify](https://clockify.me/de/) &middot; [AK Zeitspeicher](https://ak-zeitspeicher.at/frontend/#/login) &middot; Pomodoro)
+-  Projektmanagement ([Asana](https://asana.com/de) &middot; [Basecamp](https://basecamp.com/) &middot; [Monday](https://monday.com/))
 
 ## Wissen verteilen
 
-_Meetings, Workshops, Joru Fixe, Newsletter, Mentoring_
+_Meetings &middot; Workshops &middot; Joru Fixe &middot; Newsletter &middot; Mentoring_
 
 ###   
 
-### Meetings, Online-Meetings
+### Meetings &middot; Online-Meetings
 
--  Umfragen, Abstimmung, Terminfindung (Doodle, Surveymonkey, Typeform, Limesurvey, Termino, LamaPoll)
--  Meetings (MS Teams, [Zoom](https://zoom.us/myhome), [GoToMeeting](https://www.goto.com/meeting), [Webex](https://www.webex.com/de/index.html), [Jitsi](https://jitsi.org/)
--  synchrone/asynchrone Kommunikation ([Slack](https://slack.com/), [MS Teams](https://www.microsoft.com/de-at/microsoft-teams/log-in), [Discord](https://discord.com/)
--  Konferenzen ([Hopin](https://hopin.com/), Zoom, [Eventbrite](https://www.eventbrite.at/), [Kupfticket]()
--  Konferenzen ([Hopin](https://hopin.com/), Zoom, [Eventbrite](https://www.eventbrite.at/), [Kupfticket](https://kupfticket.com/en)
--  Quiz ([Kahoot](https://kahoot.it/), [Mentimeter](https://www.mentimeter.com/), [Quizlet](https://quizlet.com/de)
--  Live-Feedback (Mentimenter, [PollEV](https://pollev.com/home)
+-  Umfragen &middot; Abstimmung &middot; Terminfindung (Doodle &middot; Surveymonkey &middot; Typeform &middot; Limesurvey &middot; Termino &middot; LamaPoll)
+-  Meetings (MS Teams &middot; [Zoom](https://zoom.us/myhome) &middot; [GoToMeeting](https://www.goto.com/meeting) &middot; [Webex](https://www.webex.com/de/index.html) &middot; [Jitsi](https://jitsi.org/)
+-  synchrone/asynchrone Kommunikation ([Slack](https://slack.com/) &middot; [MS Teams](https://www.microsoft.com/de-at/microsoft-teams/log-in) &middot; [Discord](https://discord.com/)
+-  Konferenzen ([Hopin](https://hopin.com/) &middot; Zoom &middot; [Eventbrite](https://www.eventbrite.at/) &middot; [Kupfticket](https://kupfticket.com/en)
+-  Quiz ([Kahoot](https://kahoot.it/) &middot; [Mentimeter](https://www.mentimeter.com/) &middot; [Quizlet](https://quizlet.com/de)
+-  Live-Feedback (Mentimenter &middot; [PollEV](https://pollev.com/home)
 
 ### Stakeholder-Management
 
--  Bürgerbeteiligung, Austausch mit Interessensgruppen
+-  Bürgerbeteiligung &middot; Austausch mit Interessensgruppen
 
 ## Wissen nutzen
 
-_Alltag, Qualität, Nutzen, Vertrauen, Automatisierung, Optimierung, Barrierefreiheit & Inklusion_
+_Alltag &middot; Qualität &middot; Nutzen &middot; Vertrauen &middot; Automatisierung &middot; Optimierung &middot; Barrierefreiheit & Inklusion_
 
 ###   
 
 ### Dokumenten-Erstellung
 
--  Docs ([GoogleDocs](https://docs.google.com/), Microsoft Office 365, [Cryptpad](https://cryptpad.fr/),  [Nextcloud](https://nextcloud.com/de/), [DropboxPaper](https://www.dropbox.com/paper/home), [Etherpad](https://etherpad.org/)/[YoPad (Etherpad Lite)](https://yopad.eu/) (=Fokus auf Dokumentenerstellung wie Word)
--  Präsentationen ([Prezi](https://prezi.com/de/), [Hyperdeck](https://hyperdeck.io/), [iAPresenter](https://ia.net/presenter), [GoogleSlides](https://docs.google.com/presentatio))
+-  Docs ([GoogleDocs](https://docs.google.com/) &middot; Microsoft Office 365 &middot; [Cryptpad](https://cryptpad.fr/) &middot;  [Nextcloud](https://nextcloud.com/de/) &middot; [DropboxPaper](https://www.dropbox.com/paper/home) &middot; [Etherpad](https://etherpad.org/)/[YoPad (Etherpad Lite)](https://yopad.eu/) (=Fokus auf Dokumentenerstellung wie Word)
+-  Präsentationen ([Prezi](https://prezi.com/de/) &middot; [Hyperdeck](https://hyperdeck.io/) &middot; [iAPresenter](https://ia.net/presenter) &middot; [GoogleSlides](https://docs.google.com/presentatio))
 -  Automatisierte Dokumentenerstellung
 
 ## Wissen bewahren
 
-_Systeme, Datenbanken, Selektion, Speichern, Aktualisieren, Gamification_
+_Systeme &middot; Datenbanken &middot; Selektion &middot; Speichern &middot; Aktualisieren &middot; Gamification_
 
 ###   
 
 ### Datenbanken
 
--  Wiki-Systeme (Wikis, [Confluence](https://www.atlassian.com/de/software/confluence), [SharePoint](https://www.microsoft.com/de-at/microsoft-365/sharepoint/collaboration)
--  Passwortmanager ([1Password](https://1password.com/), [Bitwarden](https://bitwarden.com/), [LastPass](https://www.lastpass.com/), [KeePass](https://keepass.info/)/[KeePassXC](https://keepassxc.org/))
--  Tools für (automatisierte) Dokumentation, Berichte, Agenda, Protokoll ([Evernote](https://evernote.com/de-de), [OneNote](https://www.onenote.com/), [Notion](https://www.notion.com/))
--  Cloud ([AWS](https://aws.amazon.com/), [Google Drive](https://drive.google.com/), [Dropbox](https://www.dropbox.com/home)), [ownCloud](https://owncloud.com/de/)
+-  Wiki-Systeme (Wikis &middot; [Confluence](https://www.atlassian.com/de/software/confluence) &middot; [SharePoint](https://www.microsoft.com/de-at/microsoft-365/sharepoint/collaboration)
+-  Passwortmanager [1Password](https://1password.com/) &middot; [Bitwarden](https://bitwarden.com/) &middot; [LastPass](https://www.lastpass.com/) &middot; [KeePass](https://keepass.info/)/[KeePassXC](https://keepassxc.org/)
+-  Tools für (automatisierte) Dokumentation &middot; Berichte &middot; Agenda &middot; Protokoll [Evernote](https://evernote.com/de-de) &middot; [OneNote](https://www.onenote.com/) &middot; [Notion](https://www.notion.com/)
+-  Cloud [AWS](https://aws.amazon.com/) &middot; [Google Drive](https://drive.google.com/) &middot; [Dropbox](https://www.dropbox.com/home) &middot; [ownCloud](https://owncloud.com/de/)
 -  Langfristige Speicherung
 
 ### Sicherheit
@@ -103,7 +102,7 @@ _Systeme, Datenbanken, Selektion, Speichern, Aktualisieren, Gamification_
 -  Datenschutz
 -  Sicherheitstests
 -  Verschlüsselung
--  Gamification (kahoot, Quizlet, Classcraft)
+-  Gamification (kahoot &middot; Quizlet &middot; Classcraft)
 -  Zugriff und Berechtigungssysteme
 
 
