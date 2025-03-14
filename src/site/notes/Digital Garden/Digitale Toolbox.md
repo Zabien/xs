@@ -9,20 +9,16 @@
 ### Visualisierung
 
 Pinnwand
-- [Padlet](https://padlet.com/)
-- Google Jamboard until 2024
+- [Padlet](https://padlet.com/), Google Jamboard until 2024
 
 Digitale Whiteboards
-- [Mural](https://www.mural.co/)
-- [Miro](https://miro.com/)
--  [Flinga](https://flinga.fi/)
+- [Mural](https://www.mural.co/), [Miro](https://miro.com/), [Flinga](https://flinga.fi/)
 
 Diagramme, Code-Visualisierung
 - [Mermaid](https://mermaid.js.org/)
 
 Datenvisualisierung 
-- [Google Data Studio](https://lookerstudio.google.com/overview)
-- [Python](https://www.python.org/)
+- [Google Data Studio](https://lookerstudio.google.com/overview), [Python](https://www.python.org/)
 
 Mindmapping 
 - [Mindmeister](https://www.mindmeister.com/de)
@@ -83,8 +79,8 @@ _Alltag, Qualität, Nutzen, Vertrauen, Automatisierung, Optimierung, Barrierefre
 
 ### Dokumenten-Erstellung
 
--  Docs (GoogleDocs,Oce365, Cryptpad,  Nextcloud, DropboxPaper, Etherpad (Fokus auf Dokumentenerstellung wie Word))
--  Präsentationen (Prezi, Hyperdeck, iAPresenter, GoogleSlides)
+-  Docs ([GoogleDocs](https://docs.google.com/), Microsoft Office 365, [Cryptpad](https://cryptpad.fr/),  [Nextcloud](https://nextcloud.com/de/), [DropboxPaper](https://www.dropbox.com/paper/home), [Etherpad](https://etherpad.org/)/[YoPad (Etherpad Lite)](https://yopad.eu/) (=Fokus auf Dokumentenerstellung wie Word)
+-  Präsentationen ([Prezi](https://prezi.com/de/), [Hyperdeck](https://hyperdeck.io/), [iAPresenter](https://ia.net/presenter), [GoogleSlides](https://docs.google.com/presentatio))
 -  Automatisierte Dokumentenerstellung
 
 ## Wissen bewahren
@@ -98,7 +94,7 @@ _Systeme, Datenbanken, Selektion, Speichern, Aktualisieren, Gamification_
 -  Wiki-Systeme (Wikis, [Confluence](https://www.atlassian.com/de/software/confluence), [SharePoint](https://www.microsoft.com/de-at/microsoft-365/sharepoint/collaboration)
 -  Passwortmanager ([1Password](https://1password.com/), [Bitwarden](https://bitwarden.com/), [LastPass](https://www.lastpass.com/), [KeePass](https://keepass.info/)/[KeePassXC](https://keepassxc.org/))
 -  Tools für (automatisierte) Dokumentation, Berichte, Agenda, Protokoll (Evernote, OneNote, Notion)
--  Cloud ([AWS](https://aws.amazon.com/), [Google Drive](https://drive.google.com/), [Dropbox](https://www.dropbox.com/home))
+-  Cloud ([AWS](https://aws.amazon.com/), [Google Drive](https://drive.google.com/), [Dropbox](https://www.dropbox.com/home)), [ownCloud](https://owncloud.com/de/)
 -  Langfristige Speicherung
 
 ### Sicherheit
