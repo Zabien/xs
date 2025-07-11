@@ -14,6 +14,19 @@ body {
 
 /*** On basis of Bolt theme ***/
 
-.sidebar-container .toc-container {max-height: inherit !important;}
+:root {
+--font-interface-theme:  'General Sans', Roboto, OpenSans, Inter, 'Noto Sans JP', 'UD Digi Kyokasho NK-R';
+--h2-size: 3.3em;
+}
 
-h2, .markdown-rendered h2 {color: #009688 !important;} /*00696b*/
+
+body {
+.sidebar-container .toc-container {
+  max-height: inherit;
+}
+
+h2, .markdown-rendered h2 {
+  margin-top: 2rem;
+  font-size: 3.3em;}
+
+}
