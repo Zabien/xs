@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/digital-garden/digitale-toolbox/","tags":["gardenEntry"]}
 ---
 
-
+π
 
 ## Wissen identifizieren
 
 ### Visualisierung
 
-- Pinnwand [Padlet](https://padlet.com/) &middot; Google Jamboard until 2024
+- Pinnwand [Padlet](https://padlet.com/)
 - Digitale Whiteboards [Mural](https://www.mural.co/) &middot; [Miro](https://miro.com/) &middot; [Flinga](https://flinga.fi/)
 - Diagramme &middot; Code-Visualisierung [Mermaid](https://mermaid.js.org/)
 - Datenvisualisierung [Google Data Studio](https://lookerstudio.google.com/overview) &middot; [Python](https://www.python.org/)
