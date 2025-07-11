@@ -82,7 +82,7 @@ _Systeme, Datenbanken, Selektion, Speichern, Aktualisieren, Gamification_
 
 -  **Wiki**-Systeme [Confluence](https://www.atlassian.com/de/software/confluence) &middot; [SharePoint](https://www.microsoft.com/de-at/microsoft-365/sharepoint/collaboration) &middot; Wiki
 -  **Passwortmanager** [1Password](https://1password.com/) &middot; [Bitwarden](https://bitwarden.com/) &middot; [KeePass](https://keepass.info/)/[KeePassXC](https://keepassxc.org/) &middot; [LastPass](https://www.lastpass.com/) 
--  Tools für (automatisierte) **Dokumentation**, Berichte, Agenda, Protokoll [Evernote](https://evernote.com/de-de) &middot; [Notion](https://www.notion.com/) &middot; [OneNote](https://www.onenote.com/) 
+-  **Dokumentation**, Berichte, Agenda, Protokoll [Evernote](https://evernote.com/de-de) &middot; [Notion](https://www.notion.com/) &middot; [OneNote](https://www.onenote.com/) 
 -  **Cloud** [AWS](https://aws.amazon.com/) &middot; [Dropbox](https://www.dropbox.com/home) &middot; [Google Drive](https://drive.google.com/) &middot; [ownCloud](https://owncloud.com/de/)
 -  Langfristige Speicherung
 
