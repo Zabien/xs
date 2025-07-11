@@ -3,4 +3,4 @@
 
 .sidebar-container .toc-container {max-height: inherit !important;}
 
-h2, .markdown-rendered h2 {color: #009688;} /*00696b*/
+h2, .markdown-rendered h2 {color: #009688 !important;} /*00696b*/
