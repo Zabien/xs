@@ -1,4 +1,4 @@
 
 /*** On basis of Bolt theme ***/
 
-.toc-container {max-height: inherit;}
+.sidebar-container .toc-container {max-height: inherit;}
