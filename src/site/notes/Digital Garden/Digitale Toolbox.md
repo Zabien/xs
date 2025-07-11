@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/digital-garden/digitale-toolbox/","tags":["gardenEntry"]}
 ---
 
-π
-
 ## Wissen identifizieren
 
 ### Visualisierung
