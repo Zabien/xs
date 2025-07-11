@@ -21,10 +21,10 @@ _Briefings, Expertinnenpool, Kontakte nach außen, Stakeholder, Partner, Kontakt
 ### Vernetzung & Analyse
 
 - **Quellen** finden [ResearchGate](https://www.researchgate.net/) &middot; [Statista](https://statista.com/) &middot; [Open Data Portal](https://www.opendataportal.at/) &middot; [Offene Datean](https://www.data.gv.at/) [Google Scholar](https://scholar.google.com/)
-- **Netzwerke** (LinkedIn &middot; XING)
-- **Bibliotheken** (JSTOR &middot; Springer)
-- **Matchmaking** (B2Match etc.)
-- **Gruppen**-Tools (Meetup &middot; Social-Media-Gruppen)
+- **Netzwerke** [LinkedIn](https://www.linkedin.com/) &middot; [XING](https://www.xing.com/)
+- **Bibliotheken** [JSTOR](https://www.jstor.org/) &middot; [SpringerLink](https://link.springer.com/)
+- **Matchmaking** [B2Match](https://www.b2match.com/de)
+- **Gruppen**-Tools [Meetup](https://www.meetup.com/) &middot; Social-Media-Gruppen
 
 ## Wissen entwickeln
 
@@ -40,7 +40,7 @@ _Lernen, E-Learning, Schulungen, Experimentierräume, Innovationslabore, Think T
 
 -  **Aufgabenmanagement** [Todoist](https://www.todoist.com/) &middot; [Plan.io](https://plan.io/) &middot; [YouTrack](https://www.jetbrains.com/de-de/youtrack/) &middot; 
 -  **Kanban**-Boards [Trello](https://trello.com/de) &middot; [Zenkit](https://zenkit.com/de/) &middot; Notion etc.
--  **Zeitaufzeichnung [Toggl](https://toggl.com/) &middot; [Clockify](https://clockify.me/de/) &middot; [AK Zeitspeicher](https://ak-zeitspeicher.at/frontend/#/login) &middot; Pomodoro-Technik
+-  **Zeitaufzeichnung** [Toggl](https://toggl.com/) &middot; [Clockify](https://clockify.me/de/) &middot; [AK Zeitspeicher](https://ak-zeitspeicher.at/frontend/#/login) &middot; Pomodoro-Technik
 -  **Projektmanagement** [Asana](https://asana.com/de) &middot; [Basecamp](https://basecamp.com/) &middot; [Monday](https://monday.com/)
 
 ## Wissen verteilen
@@ -51,7 +51,7 @@ _Meetings, Workshops, Jour Fixes, Newsletter, Mentoring_
 
 -  **Umfragen**, Abstimmung, Terminfindung [Doodle](https://doodle.com/de/) &middot; [Surveymonkey](https://de.surveymonkey.com/) &middot; [Typeform](https://www.typeform.com/) &middot; [Limesurvey](https://www.limesurvey.org/de) &middot; [Termino](https://www.termino.gv.at/) &middot; [LamaPoll](https://www.lamapoll.de/) &middot; [tally](https://tally.so/)
 -  **Meetings**  [GoToMeeting](https://www.goto.com/meeting) &middot; [Jitsi](https://jitsi.org/) &middot; MS Teams &middot; [Webex](https://www.webex.com/de/index.html) &middot; [Zoom](https://zoom.us/myhome) 
--  synchrone/asynchrone **Kommunikation** [Slack](https://slack.com/) &middot; [MS Teams](https://www.microsoft.com/de-at/microsoft-teams/log-in) &middot; [Discord](https://discord.com/)
+- **Kommunikation** (synchron/asynchron) [Slack](https://slack.com/) &middot; [MS Teams](https://www.microsoft.com/de-at/microsoft-teams/log-in) &middot; [Discord](https://discord.com/)
 -  **Konferenzen** [Hopin](https://hopin.com/) &middot; [Eventbrite](https://www.eventbrite.at/) &middot; [Kupfticket](https://kupfticket.com/en) &middot; Zoom
 -  **Quiz** [Kahoot](https://kahoot.it/) &middot; [Mentimeter](https://www.mentimeter.com/) &middot; [Quizlet](https://quizlet.com/de)
 -  Live-**Feedback** [Mentimenter](https://www.mentimeter.com/) &middot; [PollEV](https://pollev.com/home)
