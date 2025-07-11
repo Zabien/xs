@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/toolbox/"}
+{"dg-publish":true,"permalink":"/digital-garden/toolbox/","tags":["gardenEntry"]}
 ---
 
 Überblick über mögliche Tools grob geordnet nach dem Wissenskreislauf nach Probst.
