@@ -1,7 +1,6 @@
 
 /*** On basis of Bolt theme ***/
-
-/*** PROBLEM: Es geht leider weder mit important noch in custom-style.css ***/
+/*** PROBLEM: Es geht leider weder mit important noch in custom-style.css, muss innerhalb des body sein!***/
 
 :root {
 --font-interface-theme:  'General Sans', Roboto, OpenSans, Inter, 'Noto Sans JP', 'UD Digi Kyokasho NK-R';
@@ -9,11 +8,13 @@
 }
 
 body {
+
 .sidebar-container .toc-container {
   max-height: inherit;
 }
 
 h2, .markdown-rendered h2 {
-  color: #009688;
-  margin-top: 2rem;} /*00696b*/
+  /*color: #009688;*//*00696b*/
+  margin-top: 2rem;}
+
 }
