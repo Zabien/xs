@@ -34,27 +34,27 @@ _Lernen, E-Learning, Schulungen, Experimentierräume, Innovationslabore, Think T
 
  -  **Weiterbildung** [Moodle](https://www.instructure.com/canvas) &middot; [Canvas](https://www.instructure.com/canvas) &middot; Wikis &middot; [Udemy](https://www.udemy.com/) (LMS = Lernmanagementsysteme)
 -  **Innovation**
--  **Prototyp**-Entwicklung ([Jira](https://jira.atlassian.com/) &middot; [GitLab](https://about.gitlab.com/) &middot; [GitHub](https://github.com/))
+-  **Prototyp**-Entwicklung [Jira](https://jira.atlassian.com/) &middot; [GitLab](https://about.gitlab.com/) &middot; [GitHub](https://github.com/)
 
 ### Aufgabenmanagement
 
 -  **Aufgabenmanagement** [Todoist](https://www.todoist.com/) &middot; [Plan.io](https://plan.io/) &middot; [YouTrack](https://www.jetbrains.com/de-de/youtrack/) &middot; 
 -  **Kanban**-Boards [Trello](https://trello.com/de) &middot; [Zenkit](https://zenkit.com/de/) &middot; Notion etc.
--  **Zeitmanagement** & Zeitaufzeichnung [Toggl](https://toggl.com/) &middot; [Clockify](https://clockify.me/de/) &middot; [AK Zeitspeicher](https://ak-zeitspeicher.at/frontend/#/login) &middot; Pomodoro-Technik
+-  **Zeitaufzeichnung [Toggl](https://toggl.com/) &middot; [Clockify](https://clockify.me/de/) &middot; [AK Zeitspeicher](https://ak-zeitspeicher.at/frontend/#/login) &middot; Pomodoro-Technik
 -  **Projektmanagement** [Asana](https://asana.com/de) &middot; [Basecamp](https://basecamp.com/) &middot; [Monday](https://monday.com/)
 
 ## Wissen verteilen
 
-_Meetings, Workshops, Joru Fixe, Newsletter, Mentoring_
+_Meetings, Workshops, Jour Fixes, Newsletter, Mentoring_
 
 ### Meetings &middot; Online-Meetings
 
 -  **Umfragen**, Abstimmung, Terminfindung [Doodle](https://doodle.com/de/) &middot; [Surveymonkey](https://de.surveymonkey.com/) &middot; [Typeform](https://www.typeform.com/) &middot; [Limesurvey](https://www.limesurvey.org/de) &middot; [Termino](https://www.termino.gv.at/) &middot; [LamaPoll](https://www.lamapoll.de/) &middot; [tally](https://tally.so/)
--  **Meetings** (MS Teams &middot; [Zoom](https://zoom.us/myhome) &middot; [GoToMeeting](https://www.goto.com/meeting) &middot; [Webex](https://www.webex.com/de/index.html) &middot; [Jitsi](https://jitsi.org/)
--  synchrone/asynchrone **Kommunikation** ([Slack](https://slack.com/) &middot; [MS Teams](https://www.microsoft.com/de-at/microsoft-teams/log-in) &middot; [Discord](https://discord.com/)
--  **Konferenzen** ([Hopin](https://hopin.com/) &middot; Zoom &middot; [Eventbrite](https://www.eventbrite.at/) &middot; [Kupfticket](https://kupfticket.com/en)
--  **Quiz** ([Kahoot](https://kahoot.it/) &middot; [Mentimeter](https://www.mentimeter.com/) &middot; [Quizlet](https://quizlet.com/de)
--  Live-**Feedback** (Mentimenter &middot; [PollEV](https://pollev.com/home)
+-  **Meetings**  [GoToMeeting](https://www.goto.com/meeting) &middot; [Jitsi](https://jitsi.org/) &middot; MS Teams &middot; [Webex](https://www.webex.com/de/index.html) &middot; [Zoom](https://zoom.us/myhome) 
+-  synchrone/asynchrone **Kommunikation** [Slack](https://slack.com/) &middot; [MS Teams](https://www.microsoft.com/de-at/microsoft-teams/log-in) &middot; [Discord](https://discord.com/)
+-  **Konferenzen** [Hopin](https://hopin.com/) &middot; [Eventbrite](https://www.eventbrite.at/) &middot; [Kupfticket](https://kupfticket.com/en) &middot; Zoom
+-  **Quiz** [Kahoot](https://kahoot.it/) &middot; [Mentimeter](https://www.mentimeter.com/) &middot; [Quizlet](https://quizlet.com/de)
+-  Live-**Feedback** [Mentimenter](https://www.mentimeter.com/) &middot; [PollEV](https://pollev.com/home)
 
 ### Stakeholder-Management
 
