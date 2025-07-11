@@ -1,6 +1,10 @@
 
 /*** On basis of Bolt theme ***/
 
+/*** PROBLEM: Es geht leider weder mit important noch in custom-style.css ***/
+
+body {
 .sidebar-container .toc-container {max-height: inherit !important;}
 
 h2, .markdown-rendered h2 {color: #009688 !important;} /*00696b*/
+}
