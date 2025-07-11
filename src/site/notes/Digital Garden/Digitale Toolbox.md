@@ -30,9 +30,9 @@ _Lernen, E-Learning, Schulungen, Experimentierräume, Innovationslabore, Think T
 
 ### Lernumgebungen
 
--  **Weiterbildung** (Moodle &middot; Canvas &middot; Wikis &middot; [Udemy](https://www.udemy.com/) &middot; interne Lernsysteme)
+ -  **Weiterbildung** [Moodle](https://www.instructure.com/canvas) &middot; [Canvas](https://www.instructure.com/canvas) &middot; Wikis &middot; [Udemy](https://www.udemy.com/) (LMS = Lernmanagementsysteme)
 -  **Innovation**
--  **Prototyp**-Entwicklung (Jira &middot; GitLab &middot; GitHub)
+-  **Prototyp**-Entwicklung ([Jira](https://jira.atlassian.com/) &middot; [GitLab](https://about.gitlab.com/) &middot; [GitHub](https://github.com/))
 
 ### Aufgabenmanagement
 
