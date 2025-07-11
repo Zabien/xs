@@ -13,6 +13,7 @@
 - **Datenvisualisierung** [Google Data Studio](https://lookerstudio.google.com/overview) &middot; [Mermaid](https://mermaid.js.org/) &middot; [Python](https://www.python.org/)
 - **Mindmapping** [Mindmeister](https://www.mindmeister.com/de)
 
+
 ## Wissen erwerben
 
 _Briefings, Expertinnenpool, Kontakte nach außen, Stakeholder, Partner, Kontakt-Systeme (CRM, Adressbücher o.ä.)_
@@ -24,6 +25,7 @@ _Briefings, Expertinnenpool, Kontakte nach außen, Stakeholder, Partner, Kontakt
 - **Bibliotheken** [JSTOR](https://www.jstor.org/) &middot; [SpringerLink](https://link.springer.com/)
 - **Matchmaking** [B2Match](https://www.b2match.com/de)
 - **Gruppen**-Tools [Meetup](https://www.meetup.com/) &middot; Social-Media-Gruppen
+
 
 ## Wissen entwickeln
 
@@ -42,6 +44,7 @@ _Lernen, E-Learning, Schulungen, Experimentierräume, Innovationslabore, Think T
 -  **Zeitaufzeichnung** [AK Zeitspeicher](https://ak-zeitspeicher.at/frontend/#/login) &middot; [Clockify](https://clockify.me/de/) &middot; [Toggl](https://toggl.com/) &middot; Pomodoro-Technik
 -  **Projektmanagement** [Asana](https://asana.com/de) &middot; [Basecamp](https://basecamp.com/) &middot; [Monday](https://monday.com/)
 
+
 ## Wissen verteilen
 
 _Meetings, Workshops, Jour Fixes, Newsletter, Mentoring_
@@ -59,6 +62,7 @@ _Meetings, Workshops, Jour Fixes, Newsletter, Mentoring_
 
 -  Bürgerbeteiligung, Austausch mit Interessensgruppen
 
+
 ## Wissen nutzen
 
 _Alltag, Qualität, Nutzen, Vertrauen, Automatisierung, Optimierung, Barrierefreiheit & Inklusion_
@@ -68,6 +72,7 @@ _Alltag, Qualität, Nutzen, Vertrauen, Automatisierung, Optimierung, Barrierefre
 -  **Dokumente** bearbeiten [Cryptpad](https://cryptpad.fr/) &middot; [DropboxPaper](https://www.dropbox.com/paper/home) &middot;  [GoogleDocs](https://docs.google.com/) &middot; [Microsoft Office 365](https://www.office.com/) &middot;  [Nextcloud](https://nextcloud.com/de/) &middot; [Etherpad](https://etherpad.org/)/[YoPad (Etherpad Lite)](https://yopad.eu/) (=Fokus auf Dokumentenerstellung wie Word
 -  **Präsentationen** [GoogleSlides](https://docs.google.com/presentatio) &middot;  [Hyperdeck](https://hyperdeck.io/) &middot; [iAPresenter](https://ia.net/presenter) &middot; [Prezi](https://prezi.com/de/) 
 -  Automatisierte Dokumentenerstellung
+
 
 ## Wissen bewahren
 
