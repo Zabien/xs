@@ -3,12 +3,14 @@
 /*** PROBLEM: Es geht leider weder mit important noch in custom-style.css, muss innerhalb des body sein!***/
 /*color: #009688;*//*00696b*/
 
+
+body {
+
 :root {
 --font-interface-theme:  'General Sans', Roboto, OpenSans, Inter, 'Noto Sans JP', 'UD Digi Kyokasho NK-R';
 --h2-size: 3.3em;
 }
 
-body {
 
 .sidebar-container .toc-container {
   max-height: inherit;
