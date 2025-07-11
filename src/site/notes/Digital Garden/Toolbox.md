@@ -39,7 +39,7 @@ _Lernen, E-Learning, Schulungen, Experimentierräume, Innovationslabore, Think T
 
 -  **Aufgabenmanagement** [Todoist](https://www.todoist.com/) &middot; [Plan.io](https://plan.io/) &middot; [YouTrack](https://www.jetbrains.com/de-de/youtrack/) &middot; 
 -  **Kanban**-Boards [Trello](https://trello.com/de) &middot; [Zenkit](https://zenkit.com/de/) &middot; Notion etc.
--  **Zeitaufzeichnung** [Toggl](https://toggl.com/) &middot; [Clockify](https://clockify.me/de/) &middot; [AK Zeitspeicher](https://ak-zeitspeicher.at/frontend/#/login) &middot; Pomodoro-Technik
+-  **Zeitaufzeichnung** [AK Zeitspeicher](https://ak-zeitspeicher.at/frontend/#/login) &middot; [Clockify](https://clockify.me/de/) &middot; [Toggl](https://toggl.com/) &middot; Pomodoro-Technik
 -  **Projektmanagement** [Asana](https://asana.com/de) &middot; [Basecamp](https://basecamp.com/) &middot; [Monday](https://monday.com/)
 
 ## Wissen verteilen
@@ -48,10 +48,10 @@ _Meetings, Workshops, Jour Fixes, Newsletter, Mentoring_
 
 ### Meetings &middot; Online-Meetings
 
--  **Umfragen**, Abstimmung, Terminfindung [Doodle](https://doodle.com/de/) &middot; [Surveymonkey](https://de.surveymonkey.com/) &middot; [Typeform](https://www.typeform.com/) &middot; [Limesurvey](https://www.limesurvey.org/de) &middot; [Termino](https://www.termino.gv.at/) &middot; [LamaPoll](https://www.lamapoll.de/) &middot; [tally](https://tally.so/)
+-  **Umfragen**, Abstimmung, Terminfindung [Doodle](https://doodle.com/de/) &middot; [LamaPoll](https://www.lamapoll.de/) &middot; [Limesurvey](https://www.limesurvey.org/de) &middot; [Surveymonkey](https://de.surveymonkey.com/) &middot; [tally](https://tally.so/) &middot; [Termino](https://www.termino.gv.at/) &middot; [Typeform](https://www.typeform.com/) 
 -  **Meetings**  [GoToMeeting](https://www.goto.com/meeting) &middot; [Jitsi](https://jitsi.org/) &middot; MS Teams &middot; [Webex](https://www.webex.com/de/index.html) &middot; [Zoom](https://zoom.us/myhome) 
-- **Kommunikation** (synchron/asynchron) [Slack](https://slack.com/) &middot; [MS Teams](https://www.microsoft.com/de-at/microsoft-teams/log-in) &middot; [Discord](https://discord.com/)
--  **Konferenzen** [Hopin](https://hopin.com/) &middot; [Eventbrite](https://www.eventbrite.at/) &middot; [Kupfticket](https://kupfticket.com/en) &middot; Zoom
+- **Kommunikation** (synchron/asynchron) &middot; [Discord](https://discord.com/) &middot; [MS Teams](https://www.microsoft.com/de-at/microsoft-teams/log-in) &middot; [Slack](https://slack.com/) 
+-  **Konferenzen** [Eventbrite](https://www.eventbrite.at/) &middot; [Hopin](https://hopin.com/) &middot; [Kupfticket](https://kupfticket.com/en) &middot; Zoom
 -  **Quiz** [Kahoot](https://kahoot.it/) &middot; [Mentimeter](https://www.mentimeter.com/) &middot; [Quizlet](https://quizlet.com/de)
 -  Live-**Feedback** [Mentimenter](https://www.mentimeter.com/) &middot; [PollEV](https://pollev.com/home)
 
@@ -65,8 +65,8 @@ _Alltag, Qualität, Nutzen, Vertrauen, Automatisierung, Optimierung, Barrierefre
 
 ### Dokumenten-Erstellung
 
--  **Dokumente** bearbeiten [GoogleDocs](https://docs.google.com/) &middot; Microsoft Office 365 &middot; [Cryptpad](https://cryptpad.fr/) &middot;  [Nextcloud](https://nextcloud.com/de/) &middot; [DropboxPaper](https://www.dropbox.com/paper/home) &middot; [Etherpad](https://etherpad.org/)/[YoPad (Etherpad Lite)](https://yopad.eu/) (=Fokus auf Dokumentenerstellung wie Word
--  **Präsentationen** [Prezi](https://prezi.com/de/) &middot; [Hyperdeck](https://hyperdeck.io/) &middot; [iAPresenter](https://ia.net/presenter) &middot; [GoogleSlides](https://docs.google.com/presentatio)
+-  **Dokumente** bearbeiten [Cryptpad](https://cryptpad.fr/) &middot; [DropboxPaper](https://www.dropbox.com/paper/home) &middot;  [GoogleDocs](https://docs.google.com/) &middot; [Microsoft Office 365](https://www.office.com/) &middot;  [Nextcloud](https://nextcloud.com/de/) &middot; [Etherpad](https://etherpad.org/)/[YoPad (Etherpad Lite)](https://yopad.eu/) (=Fokus auf Dokumentenerstellung wie Word
+-  **Präsentationen** [GoogleSlides](https://docs.google.com/presentatio) &middot;  [Hyperdeck](https://hyperdeck.io/) &middot; [iAPresenter](https://ia.net/presenter) &middot; [Prezi](https://prezi.com/de/) 
 -  Automatisierte Dokumentenerstellung
 
 ## Wissen bewahren
@@ -76,9 +76,9 @@ _Systeme, Datenbanken, Selektion, Speichern, Aktualisieren, Gamification_
 ### Datenbanken
 
 -  **Wiki**-Systeme [Confluence](https://www.atlassian.com/de/software/confluence) &middot; [SharePoint](https://www.microsoft.com/de-at/microsoft-365/sharepoint/collaboration) &middot; Wiki
--  **Passwortmanager** [1Password](https://1password.com/) &middot; [Bitwarden](https://bitwarden.com/) &middot; [LastPass](https://www.lastpass.com/) &middot; [KeePass](https://keepass.info/)/[KeePassXC](https://keepassxc.org/)
--  Tools für (automatisierte) **Dokumentation**, Berichte, Agenda, Protokoll [Evernote](https://evernote.com/de-de) &middot; [OneNote](https://www.onenote.com/) &middot; [Notion](https://www.notion.com/)
--  **Cloud** [AWS](https://aws.amazon.com/) &middot; [Google Drive](https://drive.google.com/) &middot; [Dropbox](https://www.dropbox.com/home) &middot; [ownCloud](https://owncloud.com/de/)
+-  **Passwortmanager** [1Password](https://1password.com/) &middot; [Bitwarden](https://bitwarden.com/) &middot; [KeePass](https://keepass.info/)/[KeePassXC](https://keepassxc.org/) &middot; [LastPass](https://www.lastpass.com/) 
+-  Tools für (automatisierte) **Dokumentation**, Berichte, Agenda, Protokoll [Evernote](https://evernote.com/de-de) &middot; [Notion](https://www.notion.com/) &middot; [OneNote](https://www.onenote.com/) 
+-  **Cloud** [AWS](https://aws.amazon.com/) &middot; [Dropbox](https://www.dropbox.com/home) &middot; [Google Drive](https://drive.google.com/) &middot; [ownCloud](https://owncloud.com/de/)
 -  Langfristige Speicherung
 
 ### Sicherheit
