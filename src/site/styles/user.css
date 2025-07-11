@@ -3,10 +3,12 @@
 
 /*** PROBLEM: Es geht leider weder mit important noch in custom-style.css ***/
 
-body {
+:root {
 --font-interface-theme:  'General Sans', Roboto, OpenSans, Inter, 'Noto Sans JP', 'UD Digi Kyokasho NK-R';
 --h2-size: 3.3em;
+}
 
+body {
 .sidebar-container .toc-container {
   max-height: inherit;
 }
