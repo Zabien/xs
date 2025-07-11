@@ -3,6 +3,6 @@
 ---
 
 
-Der "Digital Garden" zu Wissensmanagement-Themen.
+Der „digitale Garten“ zu Wissensmanagement-Themen.
 
-* [[Digital Garden/Digitale Toolbox\|Digitale Toolbox]] zeigt mögliche Tools zum Thema Wissensmanagement nach dem Wissenskreislauf von Probst.
+* [[Digital Garden/Toolbox\|Toolbox]] zeigt mögliche Tools zum Thema Wissensmanagement nach dem Wissenskreislauf von Probst.
