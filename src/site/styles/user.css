@@ -6,11 +6,12 @@
 body {
 --font-interface-theme:  'General Sans', Roboto, OpenSans, Inter, 'Noto Sans JP', 'UD Digi Kyokasho NK-R';
 --h2-size: 3.3em;
+
+.sidebar-container .toc-container {
+  max-height: inherit;
 }
 
-body {
-.sidebar-container .toc-container {max-height: inherit;}
-
-h2, .markdown-rendered h2 {color: #009688;
+h2, .markdown-rendered h2 {
+  color: #009688;
   margin-top: 2rem;} /*00696b*/
 }
