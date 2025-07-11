@@ -4,7 +4,7 @@
 /*** PROBLEM: Es geht leider weder mit important noch in custom-style.css ***/
 
 body {
-.sidebar-container .toc-container {max-height: inherit !important;}
+.sidebar-container .toc-container {max-height: inherit;}
 
-h2, .markdown-rendered h2 {color: #009688 !important;} /*00696b*/
+h2, .markdown-rendered h2 {color: #009688;} /*00696b*/
 }
