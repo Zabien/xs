@@ -9,9 +9,8 @@
 ### Visualisierung
 
 - **Pinnwand** [Padlet](https://padlet.com/)
-- **Digitale Whiteboard**s [Mural](https://www.mural.co/) &middot; [Miro](https://miro.com/) &middot; [Flinga](https://flinga.fi/)
-- **Diagramme** &middot; Code-Visualisierung [Mermaid](https://mermaid.js.org/)
-- **Datenvisualisierung** [Google Data Studio](https://lookerstudio.google.com/overview) &middot; [Python](https://www.python.org/)
+- **Digitale Whiteboards** [Flinga](https://flinga.fi/) &middot; [Miro](https://miro.com/) &middot; [Mural](https://www.mural.co/)
+- **Datenvisualisierung** [Google Data Studio](https://lookerstudio.google.com/overview) &middot; [Mermaid](https://mermaid.js.org/) &middot; [Python](https://www.python.org/)
 - **Mindmapping** [Mindmeister](https://www.mindmeister.com/de)
 
 ## Wissen erwerben
@@ -20,7 +19,7 @@ _Briefings, Expertinnenpool, Kontakte nach außen, Stakeholder, Partner, Kontakt
 
 ### Vernetzung & Analyse
 
-- **Quellen** finden [ResearchGate](https://www.researchgate.net/) &middot; [Statista](https://statista.com/) &middot; [Open Data Portal](https://www.opendataportal.at/) &middot; [Offene Datean](https://www.data.gv.at/) [Google Scholar](https://scholar.google.com/)
+- **Quellen** finden [ResearchGate](https://www.researchgate.net/) &middot; [Statista](https://statista.com/) &middot; [Open Data Portal](https://www.opendataportal.at/) &middot; [Offene Daten](https://www.data.gv.at/) [Google Scholar](https://scholar.google.com/)
 - **Netzwerke** [LinkedIn](https://www.linkedin.com/) &middot; [XING](https://www.xing.com/)
 - **Bibliotheken** [JSTOR](https://www.jstor.org/) &middot; [SpringerLink](https://link.springer.com/)
 - **Matchmaking** [B2Match](https://www.b2match.com/de)
