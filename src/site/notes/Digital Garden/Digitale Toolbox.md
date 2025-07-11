@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/digitale-toolbox/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-garden/digitale-toolbox/"}
 ---
 
 ## Wissen identifizieren
