@@ -18,7 +18,7 @@ _Briefings, Expertinnenpool, Kontakte nach außen, Stakeholder, Partner, Kontakt
 
 ### Vernetzung & Analyse
 
-- Quellen ([ResearchGate](https://www.researchgate.net/) &middot; [Statista](https://statista.com/) &middot; [Open Data Portal](https://www.opendataportal.at/) &middot; [Offene Datean](https://www.data.gv.at/) [Google Scholar](https://scholar.google.com/))
+- Quellen finden [ResearchGate](https://www.researchgate.net/) &middot; [Statista](https://statista.com/) &middot; [Open Data Portal](https://www.opendataportal.at/) &middot; [Offene Datean](https://www.data.gv.at/) [Google Scholar](https://scholar.google.com/)
 - Netzwerke (LinkedIn &middot; XING)
 - Bibliotheken (JSTOR &middot; Springer)
 - Matchmaking (B2Match etc.)
@@ -36,10 +36,10 @@ _Lernen, E-Learning, Schulungen, Experimentierräume, Innovationslabore, Think T
 
 ### Aufgabenmanagement
 
--  Aufgabenmanagement ([Todoist](https://www.todoist.com/) &middot; [Plan.io](https://plan.io/) &middot; [YouTrack](https://www.jetbrains.com/de-de/youtrack/) &middot; 
--  Kanban ([Trello](https://trello.com/de) &middot; [Zenkit](https://zenkit.com/de/) &middot; Notion etc.)
--  Zeitmanagement &-tracking ([Toggl](https://toggl.com/) &middot; [Clockify](https://clockify.me/de/) &middot; [AK Zeitspeicher](https://ak-zeitspeicher.at/frontend/#/login) &middot; Pomodoro)
--  Projektmanagement ([Asana](https://asana.com/de) &middot; [Basecamp](https://basecamp.com/) &middot; [Monday](https://monday.com/))
+-  Aufgabenmanagement [Todoist](https://www.todoist.com/) &middot; [Plan.io](https://plan.io/) &middot; [YouTrack](https://www.jetbrains.com/de-de/youtrack/) &middot; 
+-  Kanban-Boards [Trello](https://trello.com/de) &middot; [Zenkit](https://zenkit.com/de/) &middot; Notion etc.
+-  Zeitmanagement & Zeitaufzeichnung [Toggl](https://toggl.com/) &middot; [Clockify](https://clockify.me/de/) &middot; [AK Zeitspeicher](https://ak-zeitspeicher.at/frontend/#/login) &middot; Pomodoro-Technik
+-  Projektmanagement [Asana](https://asana.com/de) &middot; [Basecamp](https://basecamp.com/) &middot; [Monday](https://monday.com/)
 
 ## Wissen verteilen
 
@@ -47,7 +47,7 @@ _Meetings, Workshops, Joru Fixe, Newsletter, Mentoring_
 
 ### Meetings &middot; Online-Meetings
 
--  Umfragen, Abstimmung, Terminfindung (Doodle &middot; [Surveymonkey](https://de.surveymonkey.com/) &middot; [Typeform](https://www.typeform.com/) &middot; [Limesurvey](https://www.limesurvey.org/de) &middot; [Termino]() &middot; LamaPoll)
+-  Umfragen, Abstimmung, Terminfindung ([Doodle](https://doodle.com/de/) &middot; [Surveymonkey](https://de.surveymonkey.com/) &middot; [Typeform](https://www.typeform.com/) &middot; [Limesurvey](https://www.limesurvey.org/de) &middot; [Termino](https://www.termino.gv.at/) &middot; LamaPoll)
 -  Umfragen, Abstimmung, Terminfindung (Doodle &middot; [Surveymonkey](https://de.surveymonkey.com/) &middot; [Typeform](https://www.typeform.com/) &middot; [Limesurvey](https://www.limesurvey.org/de) &middot; [Termino](https://www.termino.gv.at/meet/de) &middot; [LamaPoll](https://www.lamapoll.de/) &middot; [tally](https://tally.so/)
 -  Meetings (MS Teams &middot; [Zoom](https://zoom.us/myhome) &middot; [GoToMeeting](https://www.goto.com/meeting) &middot; [Webex](https://www.webex.com/de/index.html) &middot; [Jitsi](https://jitsi.org/)
 -  synchrone/asynchrone Kommunikation ([Slack](https://slack.com/) &middot; [MS Teams](https://www.microsoft.com/de-at/microsoft-teams/log-in) &middot; [Discord](https://discord.com/)
